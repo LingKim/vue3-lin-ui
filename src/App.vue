@@ -1,9 +1,9 @@
 <template>
-  <Test/>
+  <div>111</div>
 </template>
 
 <script setup lang="ts">
-import Test from './components/Test.tsx'
+
 </script>
 
 <style scoped>
